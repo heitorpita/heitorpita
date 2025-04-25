@@ -1,6 +1,6 @@
 # 🎯 Heitor Pita
 
-### 👨‍💻 Desenvolvedor Java 
+### 👨‍💻 Desenvolvedor 
 
 ---
 
