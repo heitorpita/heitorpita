@@ -1,6 +1,6 @@
 # 🎯 Heitor Pita
 
-### 👨‍💻 Desenvolvedor 
+### just having fun
 
 ---
 
