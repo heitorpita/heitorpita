@@ -1,6 +1,6 @@
 # 🎯 Heitor Pita
 
-### just having fun
+### just having fun coding
 
 ---
 
