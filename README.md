@@ -26,4 +26,7 @@ Você pode falar comigo por aqui ou através do meu LinkedIn (https://br.linkedi
 
 ---
 
-[![Heitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorpita&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=heitorpita&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
